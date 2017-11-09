@@ -1,0 +1,1 @@
+"C:\Program Files\Oracle\VirtualBox\VBoxManage.exe" startvm "Ubuntu 16.04" --type headless
